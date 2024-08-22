@@ -1,5 +1,5 @@
 
-# CRM System - Java OOP Project
+# CRM - Java
 
 ## Descrição do Projeto
 
